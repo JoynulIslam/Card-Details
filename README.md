@@ -67,11 +67,11 @@ src/
 
 **Form & Card Preview**
 
-![Card Form Preview](./screenshots/card-form.png)
+![Card Form Preview](./screenshots/card-form.PNG)
 
 **Card Flipped (CVC)**
 
-![Card Flipped](./screenshots/card-back.png)
+![Card Flipped](./screenshots/card-back.PNG)
 
 ---
 
@@ -84,10 +84,6 @@ src/
 
 ## ✨ Author
 
-**Your Name** – [GitHub Profile](https://github.com/your-username)
+[GitHub Profile](https://github.com/JoynulIslam)
 
 ---
-
-## 📄 License
-
-This project is **MIT licensed**. See the [LICENSE](LICENSE) file for details.
